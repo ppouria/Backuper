@@ -44,10 +44,6 @@
 - [x] **MarzGozir**
 - [x] **PasarGuard**
 
-> [!IMPORTANT]
-> ما از مجموعه‌ی [AsanPanelBot](https://t.me/AsanPanelBot) برای پشتیبانی و اسپانسری این پروژه تشکر میکنیم.
-
-
 ## نصب  
 
 برای نصب آخرین نسخه، دستور زیر را اجرا کنید:  
