@@ -53,7 +53,7 @@
 برای نصب آخرین نسخه، دستور زیر را اجرا کنید:  
 
 ```bash  
-sudo bash -c "$(curl -sL https://github.com/erfjab/Backuper/raw/master/backuper.sh)"  
+sudo bash -c "$(curl -sL https://github.com/ppouria/Backuper/raw/master/backuper.sh)"
 ```  
 
 ## 💙 حمایت از پروژه  
@@ -62,4 +62,4 @@ sudo bash -c "$(curl -sL https://github.com/erfjab/Backuper/raw/master/backuper.
 
 🔹 برای دریافت جدیدترین اخبار و بروزرسانی‌ها، به [@ErfJabs](https://t.me/erfjabs) بپیوندید.  
 
-[![Stargazers over time](https://starchart.cc/erfjab/Backuper.svg?variant=adaptive)](https://starchart.cc/erfjab/Backuper)  
+[![Stargazers over time](https://starchart.cc/ppouria/Backuper.svg?variant=adaptive)](https://starchart.cc/ppouria/Backuper)

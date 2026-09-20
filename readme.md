@@ -53,7 +53,7 @@
 To install the latest version, run:  
 
 ```bash
-sudo bash -c "$(curl -sL https://github.com/erfjab/Backuper/raw/master/backuper.sh)"
+sudo bash -c "$(curl -sL https://github.com/ppouria/Backuper/raw/master/backuper.sh)"
 ```  
 
 ## 💙 Support the Project  
@@ -62,4 +62,4 @@ If you find this project useful, giving a **star (⭐)** is more than enough. Th
 
 🔹 Join [@ErfJabs](https://t.me/erfjabs) for the latest news and updates.  
 
-[![Stargazers over time](https://starchart.cc/erfjab/Backuper.svg?variant=adaptive)](https://starchart.cc/erfjab/Backuper)  
+[![Stargazers over time](https://starchart.cc/ppouria/Backuper.svg?variant=adaptive)](https://starchart.cc/ppouria/Backuper)
